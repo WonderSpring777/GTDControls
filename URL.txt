@@ -1,1 +1,1 @@
-https://cdn.jsdelivr.net/gh/WonderSpring777/GTDControls/gtdContols.min.js
+https://cdn.jsdelivr.net/gh/WonderSpring777/GTDCtrlCDN/gtdContols.min.js
